@@ -66,7 +66,7 @@ function Weather() {
   return (
     <div>
       <div className="header">
-        <h1>WEATHER Monitoring Dashboard</h1>
+        <h1>SkyWatch : WEATHER Monitoring Dashboard</h1>
         <div>
           <input
             type="text"
