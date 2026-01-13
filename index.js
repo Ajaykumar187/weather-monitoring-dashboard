@@ -1,5 +1,5 @@
 const { useState, useEffect } = React;
-const apikey = "PASTE_YOUR_API_KEY";
+const apikey  = "PASTE_YOUR_API_KEY";
 
 function Weather() {
   const [city, setCity] = useState("");
